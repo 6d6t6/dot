@@ -1,0 +1,28 @@
+<svg width="200" height="200" xmlns="http://www.w3.org/2000/svg">
+  <!-- Cat body -->
+  <circle cx="100" cy="100" r="50" fill="gray" />
+
+  <!-- Cat ears -->
+  <circle cx="70" cy="60" r="15" fill="gray" />
+  <circle cx="130" cy="60" r="15" fill="gray" />
+
+  <!-- Cat eyes -->
+  <circle cx="85" cy="90" r="8" fill="white" />
+  <circle cx="115" cy="90" r="8" fill="white" />
+
+  <!-- Cat pupils -->
+  <circle cx="85" cy="90" r="4" fill="black" />
+  <circle cx="115" cy="90" r="4" fill="black" />
+
+  <!-- Cat nose -->
+  <circle cx="100" cy="110" r="3" fill="black" />
+
+  <!-- Cat mouth -->
+  <path d="M95,120 Q100,130 105,120" stroke="black" fill="transparent" />
+
+  <!-- Cat whiskers -->
+  <path d="M90,110 Q70,100 65,90" stroke="black" fill="transparent" />
+  <path d="M110,110 Q130,100 135,90" stroke="black" fill="transparent" />
+  <path d="M90,110 Q70,120 65,130" stroke="black" fill="transparent" />
+  <path d="M110,110 Q130,120 135,130" stroke="black" fill="transparent" />
+</svg>
