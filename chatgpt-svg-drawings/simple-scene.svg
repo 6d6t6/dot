@@ -1,0 +1,23 @@
+<svg width="400" height="300" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="100%" height="100%" fill="#F9EBE9" />
+
+  <!-- Pink wall -->
+  <rect x="50" y="50" width="300" height="200" fill="#F4C2C2" />
+
+  <!-- Couch -->
+  <rect x="50" y="150" width="200" height="100" fill="#E3BCB3" />
+  <path d="M50,150 Q150,100 250,150" fill="none" stroke="#CFAC94" stroke-width="2" />
+
+  <!-- End table -->
+  <rect x="250" y="180" width="80" height="50" fill="#D1C4B5" />
+
+  <!-- Lamp -->
+  <rect x="270" y="140" width="20" height="40" fill="#BDBDBD" />
+  <circle cx="280" cy="130" r="10" fill="#BDBDBD" />
+  <path d="M270,140 Q290,120 310,140" fill="none" stroke="#BDBDBD" stroke-width="2" />
+
+  <!-- Houseplant -->
+  <path d="M300,220 Q310,200 320,220 Q310,210 300,220" fill="#AED581" />
+  <path d="M300,220 Q310,240 320,220 Q310,230 300,220" fill="#AED581" />
+</svg>
